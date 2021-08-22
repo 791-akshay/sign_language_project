@@ -1,0 +1,26 @@
+<annotation>
+	<folder>where</folder>
+	<filename>where.1f8c5ff3-009c-11ec-a873-9c7bef20a283.jpg</filename>
+	<path>C:\Users\HP\Desktop\Object_Detection\Tensorflow\workspace\images\imagescollections\where\where.1f8c5ff3-009c-11ec-a873-9c7bef20a283.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>where</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>169</ymin>
+			<xmax>221</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
